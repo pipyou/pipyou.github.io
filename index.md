@@ -61,8 +61,7 @@
         <img src="https://pipyoutube.github.io/icon.webp" alt="App Icon" width="100" height="100">
         <h1>Float Tube</h1>
         <p>Floating Windows Play YoutTube Video & Music</p>
-        <a href="https://apps.apple.com/us/app/id6474012067" target="_blank"><img src="https://pipyoutube.github.io/ios-download.webp" alt="iOS Download" width="120" height="38"></a>
-        <a href="https://play.google.com/store/apps/details?id=com.k.video.tube" target="_blank"><img src="https://pipyoutube.github.io/android-download.webp" alt="Android Download" width="120" height="38"></a>
+        <a href="https://play.google.com/store/apps/details?id=com.azt.videolite" target="_blank"><img src="https://pipyoutube.github.io/android-download.webp" alt="Android Download" width="120" height="38"></a>
     </div>
 </div>
 
